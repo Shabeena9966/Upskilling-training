@@ -1,0 +1,9 @@
+com\springboot\SpringbootRabbitmqTutorialApplication.class
+com\springboot\consumer\RabbitMQJsonConsumer.class
+com\springboot\controller\MessageJsonController.class
+com\springboot\publisher\RabbitMQProducer.class
+com\springboot\dto\User.class
+com\springboot\controller\MessageController.class
+com\springboot\config\RabbitMQConfig.class
+com\springboot\consumer\RabbitMQConsumer.class
+com\springboot\publisher\RabbitMQJsonProducer.class
